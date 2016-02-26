@@ -2,6 +2,10 @@
 When ran in the background, this utility will read the data transmitted by a USB scale (tested on a Fairbanks Ultegra) into keystrokes.  This was 
 built to help automate a weight-based audit system.
 
+Credit
+------------
+* This useful tutorial by [Steven Snyder] (http://steventsnyder.com/reading-a-dymo-usb-scale-using-python/)
+
 Features
 ------------
 * Instantly outputs (as keystrokes) weight of items from a USB scale
