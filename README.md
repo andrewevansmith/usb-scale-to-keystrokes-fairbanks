@@ -40,5 +40,5 @@ License
 -------
 
 This software is released under the MIT License. See the bundled
-[LICENSE](https://github.com/andrewevansmith/php-craigslist-api-utility/blob/master/LICENSE)
+[LICENSE](https://github.com/andrewevansmith/usb-scale-to-keystrokes-fairbanks/blob/master/LICENSE)
 file for details.
