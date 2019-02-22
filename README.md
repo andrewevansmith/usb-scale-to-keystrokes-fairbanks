@@ -17,6 +17,15 @@ Requirements
 * [PyUSB] (https://sourceforge.net/projects/pyusb/)
 * PyKeyboard from [PyUserInput] (https://github.com/SavinaRoja/PyUserInput)
 
+Installation Notes (MacOS)
+------------
+MacOS (High Sierra) PyUserInput required Quartz
+
+```bash
+pip install pyusb
+pip install PyUserInput
+pip install pyobjc-framework-Quartz
+```
 
 Usage
 ------------
