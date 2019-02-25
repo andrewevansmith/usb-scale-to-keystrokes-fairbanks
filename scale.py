@@ -6,7 +6,7 @@ from pykeyboard import PyKeyboard
 # The number of times a number should be outputted by the scale
 # before being output to the user.  This is to allow the scale
 # to balance before output
-BALANCE_TRESHOLD = 100
+BALANCE_THRESHOLD = 100
 
 # These IDs can be found by using `lsusb`
 VENDOR_ID = 0x0b67
